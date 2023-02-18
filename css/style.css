@@ -443,8 +443,8 @@ body{
     background-color: var(--noactive-btn);
     color: var(--body-color);
 }
-.subscribe_span {
-    margin-right: 16px;
+.svg{
+    margin-left: 16px;
 }
 .buttons{
     padding: 12px 24px;
